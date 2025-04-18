@@ -18,7 +18,6 @@ RupeeVerse is built with modern web technologies:
 - **Form Handling**: React Hook Form with Zod validation
 - **QR Code Generation**: QRCode.React for offline transaction QR codes
 - **Toast Notifications**: Sonner for user feedback
-- **Database**: We have used SupaBase (which internally uses Postgres)
 
 ## Project Structure
 The application follows a modular architecture:
@@ -130,6 +129,25 @@ The platform includes educational content to improve financial literacy:
 - `FinLearn.tsx` page contains detailed lessons and interactive modules
 - Progress tracking to encourage completion of educational content
 
+## Getting Started
+
+### Development Setup
+To work locally with the RupeeVerse codebase:
+
+```sh
+# Clone the repository
+git clone <YOUR_GIT_URL>
+
+# Navigate to the project directory
+cd <YOUR_PROJECT_NAME>
+
+# Install dependencies
+npm i
+
+# Start the development server
+npm run dev
+```
+
 ### Testing Offline Functionality
 To test the offline capabilities:
 
@@ -148,7 +166,7 @@ To test the offline capabilities:
 - Integration with government benefit distribution systems
 
 ## Team
-RupeeVerse is developed by Akhil Kumar Singh and team including Aayushmaan Purohit and Harsh Kumar Singh, with a mission to bring financial inclusion to rural India through technology innovation.
+RupeeVerse is developed by co-founders Akhil Kumar Singh, Aayushmaan Purohit, and Harsh Kumar Singh, with a mission to bring financial inclusion to rural India through technology innovation.
 
 ## Contributing
 We welcome contributions to improve RupeeVerse! To contribute:

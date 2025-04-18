@@ -13,7 +13,7 @@ const TeamSection = () => {
   const teamMembers: TeamMember[] = [
     {
       name: "Akhil Kumar Singh",
-      bio: "Leading RupeeVerse's vision of making financial services accessible in rural areas across India."
+      bio: "Leading RupeeVerse's vision of making financial services accessible in rural areas across India.",
     },
     {
       name: "Aayushmaan Purohit",
