@@ -146,16 +146,5 @@ To test the offline capabilities:
 - Microfinance and group savings features
 - Integration with government benefit distribution systems
 
-## Team
-RupeeVerse is developed by co-founders Akhil Kumar Singh along with Aayushmaan Purohit, and Harsh Kumar Singh, with a mission to bring financial inclusion to rural India through technology innovation.
-
-## Contributing
-We welcome contributions to improve RupeeVerse! To contribute:
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
 ## License
 RupeeVerse is licensed under the MIT License.
